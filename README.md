@@ -12,18 +12,23 @@ You could find the dataset we used in the paper at following:
 ### Dataset for Training
 
 Denoising & JPEG compression artifact reduction: BSD400, DIV2K, Flickr2K, WaterlooED
+
 Motion deblur: GoPro
 
 ### Dataset for Testing
 
 Grayscale denoising: Set12, BSD68
+
 Color denoising: CBSD68, Kodak24, McMaster
+
 JPEG compression artifact reduction: Classic5, LIVE1
+
 Motion deblur: GoPro test, HIDE
 
 ## Checkpoints
 
 The checkpoints can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1z32Wuphcq28WjwTEP1b1iPcVt7tJI1Iy?usp=share_link) Here.
+
 They can be placed at the `ckpt` folder.
 
 ## Testing
