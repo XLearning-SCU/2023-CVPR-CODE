@@ -21,6 +21,11 @@ Color denoising: CBSD68, Kodak24, McMaster
 JPEG compression artifact reduction: Classic5, LIVE1
 Motion deblur: GoPro test, HIDE
 
+## Checkpoints
+
+The checkpoints can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1z32Wuphcq28WjwTEP1b1iPcVt7tJI1Iy?usp=share_link) Here.
+They can be placed at the `ckpt` folder.
+
 ## Testing
 
 ~~~shell
