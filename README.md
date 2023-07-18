@@ -34,7 +34,7 @@ They can be placed at the `ckpt` folder.
 ## Testing
 
 ~~~shell
-python test.py --task jpeg --data_root dataset --dataset classic5 --ckpt_pth ./ckpt/jpegcar_q40.pth --result_dir results/jpeg_q40
+python test.py --task jpeg --data_root dataset --dataset classic5 --sigma 40 --ckpt_pth ./ckpt/jpegcar_q40.pth --result_dir results/jpeg_q40
 ~~~
 
 
