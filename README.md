@@ -1,4 +1,4 @@
-PyTorch implementation for Comprehensive and Delicate: An Efficient Transformer for Image Restoration (CVPR 2023).
+PyTorch implementation for Comprehensive and Delicate: An Efficient Transformer for Image Restoration (CVPR 2023). [[paper](http://pengxi.me/wp-content/uploads/2023/04/Comprehensive-and-Delicate-An-Efficient-Transformer-for-Image-Restoration.pdf)]
 
 ## Dependencies
 
